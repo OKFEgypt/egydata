@@ -1,0 +1,65 @@
+BudgetItemID,Category,SubCategory,SubSubCategory,Value,StartDate,EndDate
+1.1, Salaries and Bonuses, Permanent Jobs, Permanent Jobs, 28431000000, 2013-07-01, 2014-06-30
+1.2, Salaries and Bonuses, Temporary Jobs, Temporary Jobs, 2401000000, 2013-07-01, 2014-06-30
+1.3, Salaries and Bonuses, Bonuses, Bonuses, 74200000000, 2013-07-01, 2014-06-30
+1.4, Salaries and Bonuses, Allowances, Allowances, 20062000000, 2013-07-01, 2014-06-30
+1.5, Salaries and Bonuses, Financial Benefits, Financial Benefits, 12664000000, 2013-07-01, 2014-06-30
+1.6, Salaries and Bonuses, Tangible Benefits, Tangible Benefits, 2850000000, 2013-07-01, 2014-06-30
+1.7, Salaries and Bonuses, Insurance Benefits, Insurance Benefits, 17499000000, 2013-07-01, 2014-06-30
+1.8, Salaries and Bonuses, Other Salaries, Other Salaries, 14052000000, 2013-07-01, 2014-06-30
+2.1, Purchase of Goods and Services, Food and Medicine etc., Food and Medicine etc., 6752000000, 2013-07-01, 2014-06-30
+2.2, Purchase of Goods and Services, Fuel for Machinery, Fuel for Machinery, 1174000000, 2013-07-01, 2014-06-30
+2.3, Purchase of Goods and Services, Fuel for Vehicles, Fuel for Vehicles, 110000000, 2013-07-01, 2014-06-30
+2.4, Purchase of Goods and Services, Spare Parts, Spare Parts, 975000000, 2013-07-01, 2014-06-30
+2.5, Purchase of Goods and Services, Lighting, Lighting, 3956000000, 2013-07-01, 2014-06-30
+2.6, Purchase of Goods and Services, Water, Water, 700000000, 2013-07-01, 2014-06-30
+2.7, Purchase of Goods and Services, Repairs, Repairs, 4278000000, 2013-07-01, 2014-06-30
+2.8, Purchase of Goods and Services, Print, Print, 1222000000, 2013-07-01, 2014-06-30
+2.9, Purchase of Goods and Services, Employees Transportation, Employees Transportation, 2674000000, 2013-07-01, 2014-06-30
+2.1, Purchase of Goods and Services, Mail and Telecommunications, Mail and Telecommunications, 353000000, 2013-07-01, 2014-06-30
+2.11, Purchase of Goods and Services, Judiciary Expenses, Judiciary Expenses, 332000000, 2013-07-01, 2014-06-30
+2.12, Purchase of Goods and Services, Goods and Services for Private Funds, Goods and Services for Private Funds, 2121000000, 2013-07-01, 2014-06-30 
+2.13, Purchase of Goods and Services, Other Goods and Services, Other Goods and Services, 4159000000, 2013-07-01, 2014-06-30
+2.14, Purchase of Goods and Services, General Savings, General Savings, 1900000000, 2013-07-01, 2014-06-30
+3.1, Interests, External Interests, External Interests, 7462000000, 2013-07-01, 2014-06-30
+3.2, Interests, Internal Interests, Internal Interests, 174585000000, 2013-07-01, 2014-06-30
+4.1.1, Subsidization and Pensions, Food, Bread, 21324000000, 2013-07-01, 2014-06-30
+4.1.2, Subsidization and Pensions, Food, Cooking Oil, 4641000000, 2013-07-01, 2014-06-30
+4.1.3, Subsidization and Pensions, Food, Sugar, 4467000000, 2013-07-01, 2014-06-30
+4.1.4, Subsidization and Pensions, Food, Rice, 2362000000, 2013-07-01, 2014-06-30
+4.1.5, Subsidization and Pensions, Food, Tea, 0, 2013-07-01, 2014-06-30
+4.1.6, Subsidization and Pensions, Food, Existing in Granaries, -1960000000, 2013-07-01, 2014-06-30
+4.2.1, Subsidization and Pensions, Fuel, Natural Gas, 8116000000, 2013-07-01, 2014-06-30
+4.2.2, Subsidization and Pensions, Fuel,  Butagas, 22878000000, 2013-07-01, 2014-06-30
+4.2.3, Subsidization and Pensions, Fuel, Petroleum, 19217000000, 2013-07-01, 2014-06-30
+4.2.4, Subsidization and Pensions, Fuel, Kerosene, 47000000, 2013-07-01, 2014-06-30
+4.2.5, Subsidization and Pensions, Fuel, Diesel, 39677000000, 2013-07-01, 2014-06-30
+4.2.6, Subsidization and Pensions, Fuel, Mazut, 9660000000, 2013-07-01, 2014-06-30
+4.3, Subsidization and Pensions, Electricity, Electricity, 13280000000, 2013-07-01, 2014-06-30
+4.4, Subsidization and Pensions, Export Development, Export Development, 3100000000, 2013-07-01, 2014-06-30
+4.5, Subsidization and Pensions, Farmers, Farmers, 2978000000, 2013-07-01, 2014-06-30
+4.6, Subsidization and Pensions, Development of Upper Egypt, Development of Upper Egypt, 600000000, 2013-07-01, 2014-06-30
+4.7, Subsidization and Pensions, Development of Industrial Zones, Development of Industrial Zones, 400000000, 2013-07-01, 2014-06-30
+4.8, Subsidization and Pensions, Children Food and Milk, Children Food and Milk, 300000000, 2013-07-01, 2014-06-30
+4.9, Subsidization and Pensions, Health Care for Mothers, Health Care for Mothers, 120000000, 2013-07-01, 2014-06-30
+4.1, Subsidization and Pensions, Health Care for Pre-School Children, Health Care for Pre-School Children, 160000000, 2013-07-01, 2014-06-30
+4.11, Subsidization and Pensions, Health Care for School Students, Health Care for School Students, 240000000, 2013-07-01, 2014-06-30
+4.12, Subsidization and Pensions, Public Transportation, Public Transportation, 1434000000, 2013-07-01, 2014-06-30
+4.13, Subsidization and Pensions, Lending, Lending, 800000000, 2013-07-01, 2014-06-30
+4.14, Subsidization and Pensions, Hosing for Poor Families, Hosing for Poor Families, 300000000, 2013-07-01, 2014-06-30
+4.15, Subsidization and Pensions, Water Company, Water Company, 750000000, 2013-07-01, 2014-06-30
+4.16, Subsidization and Pensions, Military Production, Military Production, 1200000000, 2013-07-01, 2014-06-30
+4.17, Subsidization and Pensions, Training, Training, 50000000, 2013-07-01, 2014-06-30
+4.18, Subsidization and Pensions, Students Subscriptions, Students Subscriptions, 250000000, 2013-07-01, 2014-06-30 
+4.19, Subsidization and Pensions, Tourism, Tourism, 1250000000, 2013-07-01, 2014-06-30
+4.21, Subsidization and Pensions, Donations, Donations, 5365000000, 2013-07-01, 2014-06-30
+4.22, Subsidization and Pensions, Scoial Security Pension, Scoial Security Pension, 3234000000, 2013-07-01, 2014-06-30
+4.23, Subsidization and Pensions, Other Subsidization and Pensions, Misc., 39300000000, 2013-07-01, 2014-06-30
+5, Other Expenses, Other Expenses, Other Expenses, 38300000000, 2013-07-01, 2014-06-30
+6.1, Purchase of Non Financial Assets (Investments), Buildings, Buildings, 42901000000, 2013-07-01, 2014-06-30
+6.2, Purchase of Non Financial Assets (Investments), Machinery and Vehicles, Machinery and Vehicles, 14288000000, 2013-07-01, 2014-06-30
+6.3, Purchase of Non Financial Assets (Investments), Other Fixed Assets, Other Fixed Assets, 48000000, 2013-07-01, 2014-06-30
+6.4, Purchase of Non Financial Assets (Investments), Purchase and Cultivated of Lands, Purchase and Cultivated of Lands, 1139000000, 2013-07-01, 2014-06-30
+6.5, Purchase of Non Financial Assets (Investments), Scholarships, Scholarships, 592000000, 2013-07-01, 2014-06-30
+6.6, Purchase of Non Financial Assets (Investments), Researches for Investment Projects, Researches for Investment Projects, 2160000000, 2013-07-01, 2014-06-30
+6.6, Purchase of Non Financial Assets (Investments), Interests and Payments, Interests and Payments, 2552000000, 2013-07-01, 2014-06-30
